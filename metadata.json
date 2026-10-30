@@ -1,0 +1,8 @@
+{
+  "name": "Remix Campus Escape – A DSA-Based Adventure Game",
+  "description": "A beginner-friendly 2D top-down university adventure game implementing Graphs, Dijkstra\u0027s Algorithm, BFS, DFS, Stack, Queue, Hash Table, Priority Queue, and Sorting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
